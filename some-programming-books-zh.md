@@ -1,11 +1,46 @@
 ### 目录
 ===================
+ * [在线教育](#在线教育)
+ * [操作系统](#操作系统)
+ * [版本控制](#版本控制)
+ * [数据库](#数据库)
  * [C](#c)
  * [C++](#c++)
  * [Python](#python)
  * [Javascript](#Javascript)
  * [Html&css](#Html&css)
 
+
+### 在线教育
+ * [MIT 公开课](http://ocw.mit.edu/courses/translated-courses/simplified-chinese/)
+ * [Coursera](https://www.coursera.org/courses?orderby=upcoming&lngs=zh)
+ * [Udacity](https://www.udacity.com/)
+ * [xuetangX](https://www.xuetangx.com/)
+ * [Codecademy](http://www.codecademy.com/?locale_code=zh)
+ * [CodeSchool](https://www.codeschool.com/)
+ * [TeamTreeHouse](http://teamtreehouse.com/)
+ * [Learn X in Y minutes](http://learnxinyminutes.com/) (数十种语言快速入门教程)
+
+
+#### 操作系统
+ * [UNIX TOOLBOX](http://cb.vu/unixtoolbox_zh_CN.xhtml)
+ * [Linux Guide for Complete Beginners](http://happypeter.github.io/LGCB/book/)
+
+
+#### 版本控制
+ * [Pro Git](http://git-scm.com/book/zh)
+ * [Git magic](http://www-cs-students.stanford.edu/~blynn/gitmagic/intl/zh_cn/)
+ * [Git - 简易指南](http://rogerdudler.github.io/git-guide/index.zh.html)
+ * [Git 参考手册](http://gitref.justjavac.com/)
+ * [沉浸式学 Git](http://igit.linuxtoy.org/index.html)
+ * [Got GitHub](https://github.com/gotgit/gotgithub)
+ * [Git Community Book 中文版](http://gitbook.liuhui998.com/)
+ * [学习 Git 分支](http://pcottle.github.io/learnGitBranching/) (点击右下角按钮可切换至简体及正体中文)
+
+
+#### 数据库
+ * [The Little MongoDB Book 中文版](https://github.com/justinyhuang/the-little-mongodb-book-cn)
+ * [Redis 设计与实现](http://www.redisbook.com)
 
 ### C
  * [新概念 C 语言教程](https://github.com/limingth/NCCL)
