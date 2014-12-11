@@ -29,7 +29,7 @@
 
 
 #### 版本控制
- * [Pro Git](http://git-scm.com/book/zh)
+ * [Pro Git](http://git-scm.com/book/zh) ([下载](https://progit2.s3.amazonaws.com/zh/2014-12-09-b11f1/progit-zh.208.pdf)第二版中文版Pro Git )
  * [Git magic](http://www-cs-students.stanford.edu/~blynn/gitmagic/intl/zh_cn/)
  * [Git - 简易指南](http://rogerdudler.github.io/git-guide/index.zh.html)
  * [Git 参考手册](http://gitref.justjavac.com/)
