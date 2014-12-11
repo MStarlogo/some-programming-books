@@ -1,16 +1,15 @@
 ### 目录
 ===================
-[C](#c)
-[C++](#c++)
-[Python](#python)
-[Javascript](#Javascript)
-[Html&css](#Html&css)
+*[C](#c)
+*[C++](#c++)
+*[Python](#python)
+*[Javascript](#Javascript)
+*[Html&css](#Html&css)
 
 ### C
  * [新概念 C 语言教程](https://github.com/limingth/NCCL)
  * [C 语言常见问题集](http://c-faq-chn.sourceforge.net/ccfaq/ccfaq.html)
  * [C/C++ 学习教程](http://doc.lellansin.com/)
-
 
 ### C++
  * [C++ 基础教程](http://www.prglab.com/cms/)
@@ -27,7 +26,6 @@
 ### Javascript
  * [Javascript Garden](http://bonsaiden.github.io/JavaScript-Garden/zh/)
  * [Javascript 原理](http://typeof.net/s/jsmech/)
-
 
 ### HTML / CSS
  * [学习 CSS 布局](http://zh.learnlayout.com/)
