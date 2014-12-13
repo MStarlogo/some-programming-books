@@ -1,7 +1,8 @@
 ### 目录
  * [在线教育](#在线教育)
  * [操作系统](#操作系统)
- * [版本控制](#版本控制)
+ * [Git版本控制](#Git版本控制)
+ * [Github](#github)
  * [数据库](#数据库)
  * [C](#c)
  * [C++](#c++)
@@ -28,7 +29,7 @@
  * [Linux Guide for Complete Beginners](http://happypeter.github.io/LGCB/book/)
 
 
-#### 版本控制
+#### Git版本控制
  * [Pro Git](http://git-scm.com/book/zh) ([下载](https://progit2.s3.amazonaws.com/zh/2014-12-09-b11f1/progit-zh.208.pdf)第二版中文版Pro Git )
  * [Git magic](http://www-cs-students.stanford.edu/~blynn/gitmagic/intl/zh_cn/)
  * [Git - 简易指南](http://rogerdudler.github.io/git-guide/index.zh.html)
@@ -39,6 +40,10 @@
  * [学习 Git 分支](http://pcottle.github.io/learnGitBranching/) (点击右下角按钮可切换至简体及正体中文)
 
 
+#### Github
+ * [Github使用](http://www.zhihu.com/question/20070065)(知乎:怎样使用Github)
+
+ 
 #### 数据库
  * [The Little MongoDB Book 中文版](https://github.com/justinyhuang/the-little-mongodb-book-cn)
  * [Redis 设计与实现](http://www.redisbook.com)
