@@ -3,14 +3,14 @@
  * [操作系统](#操作系统)
  * [Git版本控制](#Git版本控制)
  * [Github](#github)
- 
-### [编程语言](#编程语言)
+
+### [编程语言]
  * [数据库](#数据库)
  * [C](#c)
  * [C++](#c++)
  * [Python](#python)
 
-### [web开发](#web开发)
+### [web开发]
     * [W3school](http://www.w3school.com.cn/)
     * [Javascript](#Javascript)
     * [Html&css](#Html&css)
