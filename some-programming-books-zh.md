@@ -4,13 +4,13 @@
  * [Git版本控制](#Git版本控制)
  * [Github](#github)
 
-### [编程语言]
+### 编程语言
  * [数据库](#数据库)
  * [C](#c)
  * [C++](#c++)
  * [Python](#python)
 
-### [web开发]
+### web开发
  * [W3school](http://www.w3school.com.cn/)
  * [Javascript](#Javascript)
  * [Html&css](#Html&css)
@@ -74,7 +74,7 @@
  * [Django book 2.0](http://djangobook.py3k.cn/2.0/)
 
 
-### web开发
+### web开发([W3school](http://www.w3school.com.cn/))
 #### Javascript
  * [Javascript Garden](http://bonsaiden.github.io/JavaScript-Garden/zh/)
  * [Javascript 原理](http://typeof.net/s/jsmech/)
