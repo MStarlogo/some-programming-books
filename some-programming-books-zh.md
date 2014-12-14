@@ -4,10 +4,10 @@
  * [Git版本控制](#Git版本控制)
  * [Github](#github)
 ### [编程语言](#编程语言)
-    * [数据库](#数据库)
-    * [C](#c)
-    * [C++](#c++)
-    * [Python](#python)
+ * [数据库](#数据库)
+ * [C](#c)
+ * [C++](#c++)
+ * [Python](#python)
 ### [web开发](#web开发)
     * [W3school](http://www.w3school.com.cn/)
     * [Javascript](#Javascript)
@@ -45,7 +45,6 @@
 
 #### Github
  * [Github使用](http://www.zhihu.com/question/20070065)(知乎：怎样使用Github)
- * []
 
 
 #### [数据库]
@@ -53,7 +52,7 @@
  * [Redis 设计与实现](http://www.redisbook.com)
 
 
-### [编程语言]
+### 编程语言
 #### C
  * [新概念 C 语言教程](https://github.com/limingth/NCCL)
  * [C 语言常见问题集](http://c-faq-chn.sourceforge.net/ccfaq/ccfaq.html)
@@ -70,7 +69,7 @@
  * [笨办法学 Python](http://sebug.net/paper/books/LearnPythonTheHardWay/)
  * [简明 Python 教程](http://woodpecker.org.cn/abyteofpython_cn/chinese/) (《A Byte of Python》中文版)
  * [Django book 2.0](http://djangobook.py3k.cn/2.0/)
-### [web开发]
+### web开发
 #### Javascript
  * [Javascript Garden](http://bonsaiden.github.io/JavaScript-Garden/zh/)
  * [Javascript 原理](http://typeof.net/s/jsmech/)
