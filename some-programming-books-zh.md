@@ -3,15 +3,18 @@
  * [操作系统](#操作系统)
  * [Git版本控制](#Git版本控制)
  * [Github](#github)
- * [数据库](#数据库)
- * [C](#c)
- * [C++](#c++)
- * [Python](#python)
- * [Javascript](#Javascript)
- * [Html&css](#Html&css)
+### [编程语言](#编程语言)
+    * [数据库](#数据库)
+    * [C](#c)
+    * [C++](#c++)
+    * [Python](#python)
+### [web开发](#web开发)
+    * [W3school](http://www.w3school.com.cn/)
+    * [Javascript](#Javascript)
+    * [Html&css](#Html&css)
 
 
-#### 在线教育
+### 在线教育
  * [MIT 公开课](http://ocw.mit.edu/courses/translated-courses/simplified-chinese/)
  * [Coursera](https://www.coursera.org/courses?orderby=upcoming&lngs=zh)
  * [Udacity](https://www.udacity.com/)
@@ -36,19 +39,22 @@
  * [Git 参考手册](http://gitref.justjavac.com/)
  * [沉浸式学 Git](http://igit.linuxtoy.org/index.html)
  * [Got GitHub](https://github.com/gotgit/gotgithub)
- * [Git Community Book 中文版](http://gitbook.liuhui998.com/)
+ * [Git Community Book 中文版](http://gitbook.                   .com/)
  * [学习 Git 分支](http://pcottle.github.io/learnGitBranching/) (点击右下角按钮可切换至简体及正体中文)
 
 
 #### Github
- * [Github使用](http://www.zhihu.com/question/20070065)(知乎:怎样使用Github)
+ * [Github使用](http://www.zhihu.com/question/20070065)(知乎：怎样使用Github)
+ * []
 
- 
-#### 数据库
+
+#### [数据库]
  * [The Little MongoDB Book 中文版](https://github.com/justinyhuang/the-little-mongodb-book-cn)
  * [Redis 设计与实现](http://www.redisbook.com)
 
-### C
+
+### [编程语言]
+#### C
  * [新概念 C 语言教程](https://github.com/limingth/NCCL)
  * [C 语言常见问题集](http://c-faq-chn.sourceforge.net/ccfaq/ccfaq.html)
  * [C/C++ 学习教程](http://doc.lellansin.com/)
@@ -64,11 +70,11 @@
  * [笨办法学 Python](http://sebug.net/paper/books/LearnPythonTheHardWay/)
  * [简明 Python 教程](http://woodpecker.org.cn/abyteofpython_cn/chinese/) (《A Byte of Python》中文版)
  * [Django book 2.0](http://djangobook.py3k.cn/2.0/)
-
-### Javascript
+### [web开发]
+#### Javascript
  * [Javascript Garden](http://bonsaiden.github.io/JavaScript-Garden/zh/)
  * [Javascript 原理](http://typeof.net/s/jsmech/)
 
-### HTML / CSS
+#### HTML / CSS
  * [学习 CSS 布局](http://zh.learnlayout.com/)
  * [HTML5 教程](http://www.w3school.com.cn/html5/)
