@@ -11,9 +11,9 @@
  * [Python](#python)
 
 ### [web开发]
-    * [W3school](http://www.w3school.com.cn/)
-    * [Javascript](#Javascript)
-    * [Html&css](#Html&css)
+ * [W3school](http://www.w3school.com.cn/)
+ * [Javascript](#Javascript)
+ * [Html&css](#Html&css)
 
 
 ### 在线教育
