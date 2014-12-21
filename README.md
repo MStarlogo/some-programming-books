@@ -6,5 +6,5 @@
 =======================
 **[some-programming-books](some-programming-books-zh.md)**
 =======================
-
 ![谢耳朵](img/1234.jpg)
+献上谢耳朵的经典照片

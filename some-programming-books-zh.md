@@ -1,3 +1,7 @@
+
+这些都是辅助，方便而已，真正还是要练习，不懂就google it。
+==================
+
 ### 目录
  * [在线教育](#在线教育)
  * [操作系统](#操作系统)
@@ -39,7 +43,7 @@
  * [学习 Git 分支](http://pcottle.github.io/learnGitBranching/) (点击右下角按钮可切换至简体及正体中文)
 
 
-#### Github
+#### Github(学习github当然是申请个账号，创建个reporsitory自己慢慢捣鼓捣鼓学习了。当然还是多google啦！)
  * [Github使用](http://www.zhihu.com/question/20070065)(知乎：怎样使用Github)
 
 
@@ -69,7 +73,7 @@
 
 
 #### web开发([web开发书籍](https://www.dropbox.com/sh/xcgoz8oftm47mx8/AACZLbY-lNd6FfSUEY1KM7yfa?dl=0))
-([W3school](http://www.w3school.com.cn/))
+ * [W3school](http://www.w3school.com.cn/)
  * [Javascript Garden](http://bonsaiden.github.io/JavaScript-Garden/zh/)
  * [Javascript 原理](http://typeof.net/s/jsmech/)
  * [学习 CSS 布局](http://zh.learnlayout.com/)
