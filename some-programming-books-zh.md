@@ -43,7 +43,8 @@
  * [学习 Git 分支](http://pcottle.github.io/learnGitBranching/) (点击右下角按钮可切换至简体及正体中文)
 
 
-#### Github(学习github当然是申请个账号，创建个reporsitory自己慢慢捣鼓捣鼓学习了。当然还是多google啦！)
+#### Github
+ * 学习github当然是申请个账号，创建个reporsitory自己慢慢捣鼓捣鼓学习了。当然还是多google啦！
  * [Github使用](http://www.zhihu.com/question/20070065)(知乎：怎样使用Github)
 
 
