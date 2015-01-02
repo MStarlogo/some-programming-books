@@ -75,15 +75,16 @@
 
 
 #### web开发([web开发书籍](https://www.dropbox.com/sh/xcgoz8oftm47mx8/AACZLbY-lNd6FfSUEY1KM7yfa?dl=0))
- * [W3school](http://www.w3school.com.cn/)
+ * [W3school](http://www.w3school.com.cn/)(web开发入门性介绍)
  * [Javascript Garden](http://bonsaiden.github.io/JavaScript-Garden/zh/)
  * [Javascript 原理](http://typeof.net/s/jsmech/)
  * [学习 CSS 布局](http://zh.learnlayout.com/)
  * [HTML5 教程](http://www.w3school.com.cn/html5/)
 
   
- #### 计算机网路([计算机网络书籍](https://www.dropbox.com/sh/5otmo4both4b15y/AADmiYEjsDA1pm3iGfx_Hr1ua?dl=0))
+#### 计算机网路([计算机网络书籍](https://www.dropbox.com/sh/5otmo4both4b15y/AADmiYEjsDA1pm3iGfx_Hr1ua?dl=0))
  * [计算机网络第五版(谢希仁)](https://www.dropbox.com/s/iiui1hu89q92k53/%E3%80%90%E8%B0%A2%E5%B8%8C%E4%BB%81%E3%80%91%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C%E7%AC%AC%E4%BA%94%E7%89%88.pdf?dl=0)
- * [数据通信计算机网路](https://www.dropbox.com/s/4gsoeyzs0gmgfnh/%E6%95%B0%E6%8D%AE%E9%80%9A%E4%BF%A1%E4%B8%8E%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C.pdf?dl=0)
+ * [数据通信与计算机网路](https://www.dropbox.com/s/4gsoeyzs0gmgfnh/%E6%95%B0%E6%8D%AE%E9%80%9A%E4%BF%A1%E4%B8%8E%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C.pdf?dl=0)
  * [[HTTP权威指南].David.Gourley等.扫描版](https://www.dropbox.com/s/svwgbmwxhhufwtl/%5BHTTP%E6%9D%83%E5%A8%81%E6%8C%87%E5%8D%97%5D.David.Gourley%E7%AD%89.%E6%89%AB%E6%8F%8F%E7%89%88.pdf?dl=0)
  * [Richard Stevens：TCP-IP 详解](https://www.dropbox.com/sh/tu46hsroxoa8rgi/AACi7KJWtHfE6UnlKikYv4W0a?dl=0)
+ * [[计算机网络：自顶向下方法（原书第4版）].(库罗斯).陈鸣等.扫描版](https://www.dropbox.com/s/155j7kmwo5w9aft/%5B%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C%EF%BC%9A%E8%87%AA%E9%A1%B6%E5%90%91%E4%B8%8B%E6%96%B9%E6%B3%95%EF%BC%88%E5%8E%9F%E4%B9%A6%E7%AC%AC4%E7%89%88%EF%BC%89%5D.%28%E5%BA%93%E7%BD%97%E6%96%AF%29.%E9%99%88%E9%B8%A3%E7%AD%89.%E6%89%AB%E6%8F%8F%E7%89%88.pdf?dl=0)
