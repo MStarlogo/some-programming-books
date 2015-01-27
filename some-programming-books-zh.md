@@ -32,6 +32,7 @@
 #### 操作系统([unix和linux](https://www.dropbox.com/sh/45giyq5vzs7dhih/AABmirO2JQFmbgta1Jk1ACCRa?dl=0))
  * [UNIX TOOLBOX](http://cb.vu/unixtoolbox_zh_CN.xhtml)
  * [Linux Guide for Complete Beginners](http://happypeter.github.io/LGCB/book/)
+ * [快乐的Linux 命令行](https://www.dropbox.com/s/3gpa7i5q7jsgeps/tlcl-en-cn.pdf?dl=0)
 
 
 #### Git版本控制([git书籍](https://www.dropbox.com/sh/o8v8u1csywixdpb/AADXbIXaICAn2GeuY-AbwpIta?dl=0))
